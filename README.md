@@ -8,11 +8,11 @@ The given folder contains one file and two folders
 3. MLProjectFinalFile.py
 
 
-## weights
+## Weights
 -------------------
 This folder the contains the weights of the trained model.
 
-## data
+## Data
 -----------------------
 This folder contains the dataset hin_combined.csv
 
